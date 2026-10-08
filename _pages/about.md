@@ -17,10 +17,10 @@ I am a first-year Ph.D. candidate in the HKUST NLP Group at the Hong Kong Univer
 
 ## Research Experience
 
+- **Ph.D. Candidate**, HKUST NLP Group, Hong Kong University of Science and Technology, 2024–Present; supervised by Professor Junxian He
 - **Research Intern**, MINIMAX, February 2025–Present
 - **Research Intern**, Tencent WXG, June 2024–September 2024; advised by Zifei Shan
 - **Research Intern**, Shanghai AI Lab, June 2023–December 2023; advised by Prof. Yu Cheng
-- **Ph.D. Candidate**, HKUST NLP Group, Hong Kong University of Science and Technology, 2024–Present
 
 ## Publications
 
